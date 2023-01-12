@@ -1,5 +1,6 @@
 
-# E-commerce (Em construção)
+<h1 align="center"> E-commerce </h1>
+
 
 Aqui encontram-se alguns dados de vendas pertencentes a 
 uma empresa de e-commerce, ao qual serão feitas algumas análises, extração de insights e obtenção
