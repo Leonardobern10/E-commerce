@@ -26,6 +26,8 @@ O projeto foi dividido em partes e estão relacionados na tabela abaixo:
 | 4  | [Analisando as vendas](https://github.com/Leonardobern10/E-commerce/blob/main/Analisando%20as%20vendas/E-commerce%20Parte%204.ipynb)|
 | 5  | [Estatísticas de vendas](https://github.com/Leonardobern10/E-commerce/blob/main/Estat%C3%ADsticas%20de%20vendas/E-commerce%20Parte%205.ipynb)
 | 6  | [Atributos com maior importância na venda](https://github.com/Leonardobern10/E-commerce/blob/main/Atributos%20com%20maior%20import%C3%A2ncia%20na%20venda/E-commerce%20Parte%206.ipynb)
+| 7  | [Executando as previsões](https://github.com/Leonardobern10/E-commerce/blob/main/Executando%20as%20previs%C3%B5es/E-commerce%20Parte%207.ipynb)
+|8   | [Avaliando o modelo] 
 
 ### Etiquetas
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
