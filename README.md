@@ -33,3 +33,4 @@ O projeto foi dividido em partes e estão relacionados na tabela abaixo:
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ![GitHub followers](https://img.shields.io/github/followers/Leonardobern10?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/Leonardobern10/E-commerce?style=social)
